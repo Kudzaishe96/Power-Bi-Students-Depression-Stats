@@ -31,7 +31,8 @@ FINOPPS Data:A csv file provided by the organisation ,which contains the relevan
 4. Standardize data formatting.
 
    ### *Load Data*
- 
+ ![Load Data](https://github.com/user-attachments/assets/bf92e3c8-5a20-4223-82d1-8a135db2b077)
+
 
 ### Data Modelling
 1. Identify and count the number of dimension tables (Dim Tables) derived from the Fact Table (FINOPPS Data).
@@ -43,7 +44,8 @@ FINOPPS Data:A csv file provided by the organisation ,which contains the relevan
 7. Use the drag-and-drop method to define these relationships.
 
    ### *Relationship Model*
-   
+   ![Data Modell](https://github.com/user-attachments/assets/3eeee914-f1b9-41c6-845a-67b8b5e74eae)
+
 
 ### Data Visualisation
 1. Create a DAX Measures Table containing calculations for CSP Rate and PAYG Rate for report visualizations (for comparisons).
@@ -53,6 +55,7 @@ FINOPPS Data:A csv file provided by the organisation ,which contains the relevan
 
    ### *Dashboard*
    
+![Dashboard](https://github.com/user-attachments/assets/3a0595ea-7289-4fc4-b76b-c008f8d89f76)
 
 
 ### Explanatory Data Analysis
