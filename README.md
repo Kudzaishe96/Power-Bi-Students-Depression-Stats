@@ -1,4 +1,4 @@
-# Power-Bi-Students-Depression-Stats
+# Power-BI-Students-Depression-Stats
 Depression Stats
 
 ## Table Of Contents
