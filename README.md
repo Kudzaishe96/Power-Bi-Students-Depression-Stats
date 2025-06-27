@@ -18,14 +18,14 @@ This project seeks to deliver insights for FINOPPS by comparing PAYG Rates with 
 
 
 ### Data Source
-FINOPPS Data:A csv file provided by the organisation ,which contains the relevant data for analysis and comparison.
+student_depression stats:A csv file provided by the organisation ,which contains the relevant data for analysis and comparison.
 
 ### Tools
 - Power BI : Data Extraction ,Data Cleaning, Data Modelling, Data Visualisation.
 
 
 ### Data Extraction and Cleaning
-1. Extract the CSV file (FINOPPS Data) into Power BI.
+1. Extract the CSV file (Students depression data) into Power BI.
 2. Load and transform the data using Power Query.
 3. Address any missing values.
 4. Standardize data formatting.
@@ -35,10 +35,10 @@ FINOPPS Data:A csv file provided by the organisation ,which contains the relevan
 
 
 ### Data Modelling
-1. Identify and count the number of dimension tables (Dim Tables) derived from the Fact Table (FINOPPS Data).
+1. Identify and count the number of dimension tables (Dim Tables) derived from the Facts Table (Student Depression Data).
 2. Duplicate the Fact Table based on the identified number of Dimension Tables.
 3. Create the necessary Dimension Tables.
-4. Normalize the Fact Table and rename it to FactFinopps, then close Power Query.
+4. Normalize the Fact Table and rename it to FactStudents, then close Power Query.
 5. Navigate to the modeling page by clicking the leftmost option on the home tab.
 6. Establish a Star Schema model by creating relationships between the Fact Table and the Dimension Tables.
 7. Use the drag-and-drop method to define these relationships.
