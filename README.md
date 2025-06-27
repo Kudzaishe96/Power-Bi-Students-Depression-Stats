@@ -48,7 +48,7 @@ student_depression stats:A csv file provided by the organisation ,which contains
 
 
 ### Data Visualisation
-1. Create a DAX Measures Table containing calculations for CSP Rate and PAYG Rate for report visualizations (for comparisons).
+1. Create a DAX Measures Table containing DAX calculations (for comparisons).
 2. Design the report theme.
 3. Select appropriate visualizations and format them according to the theme.
 4. Conduct testing on the report.
