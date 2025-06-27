@@ -9,8 +9,7 @@ Depression Stats
 - [ Data Extraction and Cleaning ](#Data-Extraction-and-Cleaning)
 - [ Data Modelling ](#Data-Modelling)
 - [ Data Visualisation ](#Data-Visualisation)
-- [ Explanatory Data Analysis](#Explanatory-Data-Analysis)
-- [ Findings ](#Findings)
+
 
 ### Project Overview
 
@@ -58,14 +57,3 @@ student_depression stats:A csv file provided by the organisation ,which contains
 ![Dashboard](https://github.com/user-attachments/assets/3a0595ea-7289-4fc4-b76b-c008f8d89f76)
 
 
-### Explanatory Data Analysis
-- Analyze costs per subscriptionName, MeterCategory, and ResourceGroup.
-- Assess potential savings/costs using the CSP Rate.
-
-### Findings
-- The Finopps Core Production Subscription represents the highest liability to the organization when using the PAYG Rate.
-- Transitioning to CSP yields significant savings for the company.
-
-### Recommendation
-1. I recommend the company switch to the CSP Rate, as it demonstrates a substantial reduction in costs compared to PAYG.
-2. Increase the use of compute engines over storage to further minimize expenses.
