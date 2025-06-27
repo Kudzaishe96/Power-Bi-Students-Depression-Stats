@@ -14,7 +14,7 @@ Depression Stats
 
 ### Project Overview
 
-This project seeks to deliver insights for FINOPPS by comparing PAYG Rates with CSP Rates, aiming to determine whether transitioning to a CSP would be more advantageous than staying with the PAYG Rate.
+This project seeks to deliver insights for the Causes of Students Depression.
 
 
 ### Data Source
